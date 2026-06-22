@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "React Basics",
+    "content": "React uses components"
+  },
+  {
+    "id": 2,
+    "title": "JS Basics",
+    "content": "JS uses DOM"
+  },
+  {
+    "id": 3,
+    "title": "Binary Search",
+    "content": "Binary Search works on sorted arrays"
+  }
+]
